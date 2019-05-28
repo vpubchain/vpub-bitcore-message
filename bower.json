@@ -2,7 +2,7 @@
   "name": "bitcore-message",
   "main": "./bitcore-message.min.js",
   "version": "1.0.3",
-  "homepage": "https://github.com/vpubchain/particl-bitcore-message",
+  "homepage": "https://github.com/vpubchain/vpub-bitcore-message",
   "authors": [
     "BitPay"
   ],
@@ -11,7 +11,7 @@
     "globals"
   ],
   "keywords": [
-    "particl",
+    "vpub",
     "bitcore",
     "btc",
     "satoshi",
