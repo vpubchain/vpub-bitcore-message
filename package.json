@@ -1,7 +1,7 @@
 {
   "name": "vpub-bitcore-message",
   "version": "1.0.3",
-  "description": "Particl Messages for Bitcore",
+  "description": "Vpub Messages for Bitcore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {

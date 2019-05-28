@@ -6,7 +6,7 @@
   "authors": [
     "BitPay"
   ],
-  "description": "Particl Message Verification and Signing for Particl",
+  "description": "Vpub Message Verification and Signing for Vpub",
   "moduleType": [
     "globals"
   ],
